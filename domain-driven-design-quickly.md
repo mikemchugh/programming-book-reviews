@@ -10,4 +10,9 @@ The chapter discusses the fact that agile development methods were a response ag
 
 The chapter ends with an example of building domain knowledge of an airplane flight control system.  It shows that discussion is needed between the domain experts and programmers and/or architects to create an accurate representation of the domain.
 
+## Chapter 2 - The Ubiquitous Language
+
+Different industries and professions have their own jargon which can be a barrier for communication. In order for a software project to succeed the developers and the domain experts need to communicate in a common language that is clear to both. DDD encourages the language used be based on the model. All communication and code should be in this language.
+
+The language must be kept up to date and be clear to all team members. Developers should aim to make their code reflect the language and be expressed in terms of the model, variables and functions should be named well, the functionality should be correct and the concept should be expressed correctly.
 
